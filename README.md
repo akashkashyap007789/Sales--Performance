@@ -86,3 +86,7 @@ README documentation
 Akash Kashyap
 Aspiring Power BI Developer
 Skills: Power BI | DAX | Power Query | Data Modeling | Data Visualization
+
+## 🖼️ Dashboard Preview
+
+![Sales Performance Dashboard](Sales%20Performance%202025%20Overview.png)
